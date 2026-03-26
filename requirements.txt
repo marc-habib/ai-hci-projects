@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+deepface
+numpy
+pandas
+speechrecognition
+librosa
+gradio
+pyqt5
